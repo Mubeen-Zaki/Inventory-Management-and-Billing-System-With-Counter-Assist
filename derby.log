@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Sat May 14 18:51:31 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0180-c2bb-380e-00000a977930 
+on database directory F:\INVOICE_AND_BILLING_SYSTEM_IN_JAVA_WITH_SOURCE_CODE\Invoice and Billing System\MagicBill with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@659e0bfd 
+Loaded from file:/F:/Programs/Java/db-derby-10.15.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.1+12-LTS-39
+user.dir=F:\INVOICE_AND_BILLING_SYSTEM_IN_JAVA_WITH_SOURCE_CODE\Invoice and Billing System
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat May 14 18:52:23 IST 2022:
+Shutting down instance a816c00e-0180-c2bb-380e-00000a977930 on database directory F:\INVOICE_AND_BILLING_SYSTEM_IN_JAVA_WITH_SOURCE_CODE\Invoice and Billing System\MagicBill with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@659e0bfd 
